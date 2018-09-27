@@ -1,3 +1,3 @@
-# Quasar App
+# CylemLabs, Inc 
 
-> WIP
+> website live on www.cylemlabs.com
