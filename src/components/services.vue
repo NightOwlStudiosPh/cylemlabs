@@ -8,7 +8,9 @@
             <h6>{{service.title}}</h6>
             <p v-html="service.description" />
           </div>
-          <div class="icon"><q-icon :name="service.icon" size="1.5rem" /></div>
+          <div class="icon animated" v-animate-onscroll="{down: 'flipInX', up: 'jello'}">
+            <q-icon :name="service.icon" size="1.5rem" />
+          </div>
         </div>
 
       </div>

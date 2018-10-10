@@ -6,7 +6,8 @@ module.exports = function (ctx) {
   return {
     // app plugins (/src/plugins)
     plugins: [
-      'vuelidate'
+      'vuelidate',
+      'animatescroll'
     ],
     css: [
       'app.styl'
@@ -79,7 +80,12 @@ module.exports = function (ctx) {
       // i18n: 'de' // Quasar language
     },
     // animations: 'all' --- includes all animations
-    animations: [],
+    animations: [
+      'fadeInDown',
+      'pulse',
+      'flipInX',
+      'jello'
+    ],
     ssr: {
       pwa: false
     },

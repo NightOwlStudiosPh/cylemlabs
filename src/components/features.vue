@@ -1,7 +1,11 @@
 <template functional>
   <section class="section section--light">
     <div class="section__content features">
-      <div class="feature" v-for="feature in props.features" :key="feature.id">
+      <div
+        v-animate-onscroll="{down: 'fadeInDown', up: 'pulse'}"
+        class="feature animated"
+        v-for="feature in props.features"
+        :key="feature.id">
         <q-icon :name="feature.icon" size="2.5rem" />
         <div class="content">
           <h3>{{feature.title}}</h3>

@@ -1,20 +1,27 @@
 [
   {
     "id": 1,
+    "image": "vue-animate-onscroll.png",
+    "name": "vue-animate-onscroll",
+    "description": "An open-source project, a simple component that animates elements as they scroll into view.",
+    "link": "https://vue-animate-onscroll.netlify.com/"
+  },
+  {
+    "id": 2,
     "image": "chronocross.png",
     "name": "Chronocross",
     "description": "A productivity application that combines a standard TODO list, Pomodoro Technique© and the Eisenhower method productivity techniques. Complete with report generation, background-persist mode and others.",
     "link": "https://play.google.com/store/apps/details?id=org.yevlabs.chronocross"
   },
   {
-    "id": 2,
+    "id": 3,
     "image": "jquizzer.png",
     "name": "jQuizzer",
     "description": "Fun little Java Quiz application covering OCAJP 8 Java SE 8 Programmer 1 Certification information.",
     "link": "https://play.google.com/store/apps/details?id=org.yevlabs.jquizzer"
   },
   {
-    "id": 3,
+    "id": 4,
     "image": "memento.png",
     "name": "MementoNiLoida",
     "description": "We've voluntered and lent a hand to an AVM Survivor. We created a simple website for her book launch.",
