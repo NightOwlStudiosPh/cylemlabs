@@ -14,7 +14,7 @@ export default {
     link: {
       fonts: {
         rel: 'stylesheet',
-        href: 'https://fonts.googleapis.com/css?family=Merriweatherhttps://fonts.googleapis.com/css?family=Inconsolata:400,700|Merriweather:400,700'
+        href: 'https://fonts.googleapis.com/css?family=Inconsolata:400,700|Merriweather:400,700'
       }
     }
   }
