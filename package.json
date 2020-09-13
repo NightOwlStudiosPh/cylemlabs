@@ -11,7 +11,7 @@
     "test": "echo \"No test specified\" && exit 0"
   },
   "dependencies": {
-    "axios": "^0.18.0",
+    "axios": "^0.18.1",
     "vue-animate-onscroll": "^1.0.7",
     "vuelidate": "^0.7.4"
   },
